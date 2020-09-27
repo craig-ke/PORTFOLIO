@@ -11,7 +11,7 @@
 *HTML
 *CSS
 ## Support and contact details
-*CONTACTS:+254712242490; lawrence.olonyi.67@gmail.com
+*CONTACTS:+254712242490; lawrence.olonyi.67@gmail.com .
 ### License
 *{MIT License
 Copyright (c) [2020] [Crag Lawrence Olonyi]
