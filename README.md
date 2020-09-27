@@ -1,12 +1,19 @@
-# **project name**
+# **program name**
 Personal Portfolio
 # Description
-This is a HTML file that includes my personal information and how you can get to me.
-# Contributors
+This is a website that includes my personal information and how you can get to me.
+# author name
 -Craig Lawrence Olonyi
+# link to live site on GitHub Pages
 
-## License & Copyrigt
+# project setup instructions
 
-Craig Lawrence Olonyi, Moringa School Software developer
+## copyright and license information
+&Craig Lawrence Olonyi, Moringa School Software developer
  
+
+
+
+
+
 
