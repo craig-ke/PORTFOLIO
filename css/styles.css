@@ -1,34 +1,87 @@
 h1{
-  color: rgba(12, 27, 9, 0.884);
+  color: rgb(0, 255, 0);
+  font-size: 30px;
+  border-bottom:3px blue;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h2{
-  color: rgb(3, 3, 32);
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-family: fantasy ;
+  color: thistle;
 }
-.intro{
-  font-style: normal;
-  font-size: 22px;
-  color: rgba(0, 255, 34, 0.884);
+body{
+
+  font-family: fantasy;
+}
+h3{
+  text-align: left;
+  text-decoration: thistle;
+  font-family: fantasy;
 }
 .author{
   font-size: 22px;
+  font-family:fantasy ;
+}
+.cube{
+  font-size: 22px;
+  font-family: fantasy;
+  background-color: rgb(4, 0, 255);
+  width: 950px;
+  float:right;
+  margin: 20px;
+  
+}
+.outdoor{
+  color: darkred;
+}
+img{
+  float:left;
+  border-radius: 400px ;
+  border: 2px solid black;
+}
+.potato{
+  width: 700px;
+  float: left;
+  background-color: rgb(27, 192, 233);
+  border: 3px solid black;
+}
+.zawadi{
+  width: 700px;
+  float: right;
+  background-color: rgb(0, 225, 255);
+  border: 3px solid black;
 }
 
-.cube{
-  border: 2px solid rgb(44, 38, 38);
-  font-size: 22px;
-  background: rgba(203, 238, 240, 0.863);
-  font-style: inherit;
+.background{
+  display: inline-block;
+  width: 28%;
+  margin: 3%;
+  text-align: center;
+  box-shadow: 0 0 14px 1px rgba(13, 72, 213, 1);
+  background-color: rgb(0, 255, 64);
+  color: black;
+  padding: 5px;
+  width: 90%;
+  margin-right: 2%;
+  height: 130%;
 }
-.cube{
-  border-left:2px cornflowerblue;
-  border-right:4px crimson;
-  border-top:6px darkblue;
-  border-bottom:8px darkgreen;
+.home nav ul li{
+  display: inline-block;
+  list-style: none;
+  text-decoration: none;
+  padding: 22px;
 }
-.cube{
-  border: 2px solid black;
-  padding: 6px;
-  margin: 20px;
+.home{
+  text-align: center;
+  width: 100%;
+  padding-top: 20px;
+  background-color: blue;
 }
+.footer{
+  text-align: center;
+  width: 100%;
+  padding-top: 20px;
+  background-color: blue;
+}
+
+
