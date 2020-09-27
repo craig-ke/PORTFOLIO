@@ -109,8 +109,8 @@ text-align: center;
   display: block;
   text-align: left;
   color:#333;
-  text transform: uppercase;
-  font-size: 14px
+  text-transform: uppercase;
+  font-size: 14px;
 }
 .txtb input,.txtb textarea{
   width: 100%;
@@ -127,7 +127,7 @@ text-align: center;
   color: white;
   text-transform: uppercase;
   font-style: inherit;
-  cursor: pointer
+  cursor: pointer;
   margin-top: 8px;
   width: 100%;
   
