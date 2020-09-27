@@ -3,7 +3,7 @@
 ## Description
 *This is a detailed description of My application, including m purpose and usage.
 ## Setup/Installation Requirements
-* This is a great place to be
+* This is a great place to be.
 * Run today and walk tomorrow.
 ## Known Bugs
 * There are some issues which had not been solved yet but coming soon, shall be solved.
