@@ -1,5 +1,6 @@
 h1{
-  color: rgba(234, 233, 243, 0.959);
+  display: inline-block;
+  color: rgba(242, 247, 246, 0.959);
   font-size: 40px;
   border-bottom:3px blue;
   font-family:fantasy;
@@ -8,9 +9,20 @@ h1{
   font-weight: bolder;
 }
 h2{
+  isplay: inline-block;
+  width: 100%;
+  margin: 3%;
+  box-shadow: 0 0 14px 1px rgb(18, 149, 201);
+  background-color: rgb(240, 247, 244);
+  color: black;
+  padding: 5px;
+  width: 90%;
+  margin-right: 2%;
+  height: 130%;
   text-align: center;
   font-family: fantasy ;
-  color: thistle;
+  color: rgb(12, 10, 12);
+  font-size: 32px;
 }
 body{
   font-family: fantasy;
@@ -47,7 +59,7 @@ img{
   margin: 3%;
   text-align:left;
   box-shadow: 0 0 14px 1px rgb(13, 213, 180);
-  background-color: rgb(0, 217, 255);
+  background-color: rgb(239, 245, 247);
   color: black;
   padding: 5px;
   width: 90%;
@@ -138,7 +150,7 @@ text-align: center;
   margin: 10%;
   text-align:left;
   box-shadow: 0 0 14px 1px rgb(13, 213, 180);
-  background-color: rgb(0, 217, 255);
+  background-color: rgb(239, 247, 248);
   color: black;
   padding: 22px;
   width: 70%;
@@ -150,4 +162,23 @@ text-align: center;
   text-decoration: none;
   color: azure;
 
+}
+.luck{
+  text-align: center;
+  text-shadow: #b68b59;
+  font-size: 30px;
+  font-style: italic;
+}
+.saved{
+  display: inline-block;
+  width: 28%;
+  margin: 3%;
+  text-align:left;
+  box-shadow: 0 0 14px 1px rgb(201, 45, 18);
+  background-color: rgb(235, 238, 238);
+  color: black;
+  padding: 5px;
+  width: 90%;
+  margin-right: 2%;
+  height: 130%;
 }
